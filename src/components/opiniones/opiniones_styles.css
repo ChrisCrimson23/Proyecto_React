@@ -1,0 +1,365 @@
+.Opiniones_de_clientes {
+    background-color: #cce9f1;
+    padding: 5% 15%;
+    display: flex;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    }
+    
+    .Opiniones_de_clientes .Reseñas {
+    flex: 2;
+    padding: 30px 20px 40px 40px;
+    }
+    
+    .Opiniones_de_clientes .Reseñas h2 {
+    font-family: "Alegreya", serif;
+    font-size: 51px;
+    line-height: 61px;
+    color: #025157;
+    }
+    
+    .Opiniones_de_clientes .Reseñas p {
+    color: #343434;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    }
+    
+    .Opiniones_de_clientes .Reseñas button {
+    font-size: 14px;
+    padding: 12px 12px 6px 12px;
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 600;
+    margin-left: 0;
+    }
+    
+    .Opiniones_de_clientes .Reseñas img {
+    width: 500px;
+    max-width: 100%;
+    }
+    
+    .stories-carousel .card-title {
+    color: #025157;
+    }
+    
+    
+    .Opiniones_de_clientes .card {
+    max-width: 500px;
+    width: 100%;
+    min-height: 600px;
+    margin: 0 auto;
+    }
+    
+    
+    .Opiniones_de_clientes .card img {
+    max-height: 30vh;
+    object-fit: cover;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body {
+    max-width: 370px;
+    width: 100%;
+    position: relative;
+    padding: 40px 1rem 1rem;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body h5 {
+    color: #2f31b3;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 12px;
+    font-family: "Slabo 27px", serif;
+    }
+    
+    .Opiniones_de_clientes .card .card-body h3 {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+    width: auto;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results img {
+    width: 26px;
+    margin-right: 20px;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results p {
+    margin: 0;
+    width: auto;
+    }
+    
+    .Opiniones_de_clientes .card .card-footer button {
+    display: block;
+    margin-top: 5%;
+    margin-left: 0;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    font-size: 13;
+    font-weight: 600;
+    width: 100%;
+    background-color: #2f31b3;
+    color: #fff;
+    border: none;
+    }
+    
+    .Opiniones_de_clientes .card .card-footer {
+    background-color: #ffffff;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top:-45px;
+    right: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    padding: 5px;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly {
+    background-color: #f9da73;
+    border: 5px solid #f9da73;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly img {
+    object-fit: contain;
+    width: 100%;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.summit {
+    background-color: #81d742;
+    border: 5px solid #81d742;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.mambe {
+    background-color: #ef7179;
+    border: 5px solid #ef7179;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly img,
+    .Opiniones_de_clientes .card .card-body .card-circle.summit img,
+    .Opiniones_de_clientes .card .card-body .card-circle.mambe img {
+    object-fit: contain;
+    width: 100%;
+    }
+    .Opiniones_de_clientes {
+    background-color: #cce9f1;
+    padding: 5% 15%;
+    display: flex;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    }
+    
+    .Opiniones_de_clientes .Reseñas {
+    flex: 2;
+    padding: 30px 20px 40px 40px;
+    }
+    
+    .Opiniones_de_clientes .Reseñas h2 {
+    font-family: "Alegreya", serif;
+    font-size: 51px;
+    line-height: 61px;
+    color: #025157;
+    }
+    
+    .Opiniones_de_clientes .Reseñas p {
+    color: #343434;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    }
+    
+    .Opiniones_de_clientes .Reseñas button {
+    font-size: 14px;
+    padding: 12px 12px 6px 12px;
+    border-radius: 8px;
+    height: 45px;
+    font-weight: 600;
+    margin-left: 0;
+    }
+    
+    .Opiniones_de_clientes .Reseñas img {
+    width: 500px;
+    max-width: 100%;
+    }
+    
+    .stories-carousel .card-title {
+    color: #025157;
+    }
+    
+    
+    .Opiniones_de_clientes .card {
+    max-width: 500px;
+    width: 100%;
+    min-height: 600px;
+    margin: 0 auto;
+    }
+    
+    
+    .Opiniones_de_clientes .card img {
+    max-height: 30vh;
+    object-fit: cover;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body {
+    max-width: 370px;
+    width: 100%;
+    position: relative;
+    padding: 40px 1rem 1rem;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body h5 {
+    color: #2f31b3;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 12px;
+    font-family: "Slabo 27px", serif;
+    }
+    
+    .Opiniones_de_clientes .card .card-body h3 {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+    width: auto;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results img {
+    width: 26px;
+    margin-right: 20px;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .results p {
+    margin: 0;
+    width: auto;
+    }
+    
+    .Opiniones_de_clientes .card .card-footer button {
+    display: block;
+    margin-top: 5%;
+    margin-left: 0;
+    margin-bottom: 5%;
+    border-radius: 5px;
+    font-size: 13;
+    font-weight: 600;
+    width: 100%;
+    background-color: #2f31b3;
+    color: #fff;
+    border: none;
+    }
+    
+    .Opiniones_de_clientes .card .card-footer {
+    background-color: #ffffff;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top:-45px;
+    right: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    padding: 5px;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly {
+    background-color: #f9da73;
+    border: 5px solid #f9da73;
+    }
+    
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly img {
+    object-fit: contain;
+    width: 100%;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.summit {
+    background-color: #81d742;
+    border: 5px solid #81d742;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.mambe {
+    background-color: #ef7179;
+    border: 5px solid #ef7179;
+    }
+    
+    .Opiniones_de_clientes .card .card-body .card-circle.everly img,
+    .Opiniones_de_clientes .card .card-body .card-circle.summit img,
+    .Opiniones_de_clientes .card .card-body .card-circle.mambe img {
+    object-fit: contain;
+    width: 100%;
+    }
+    
+    .carousel-control-next-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%232f31b3' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+      position: absolute;
+      top: 500px;
+    }
+    
+    .carousel-control-prev-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%232f31b3' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+        position: absolute;
+        top: 500px;
+    }
+    
+    .carousel-indicators li {
+      width: 10px;
+      height: 10px;
+      border-radius: 100%;
+    }
+    .carousel-indicators {
+      bottom: -110px;
+    }

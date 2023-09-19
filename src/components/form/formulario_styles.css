@@ -1,0 +1,19 @@
+.Formulario {
+    background-color: rgb(59, 221, 221);
+    padding: 5% 10%;
+    display: grid;
+    grid-template: repeat(1, 1fr) / repeat(3, 1fr);
+    margin-top: 50px;
+  }
+  
+  .Formulario .Datos {
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #fff;
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
